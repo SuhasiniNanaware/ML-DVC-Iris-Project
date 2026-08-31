@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+data/dataset.csv
+data/processed.csv
+data/train.csv
+data/test.csv
+
+*.log
+.DS_Store
+/dataset.csv
